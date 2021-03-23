@@ -57,15 +57,11 @@ In this assignment, you'll create another fun and interactive game for web brows
 
 * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
-##### Option 1 Game design notes
+##### Game design notes
 
 * The random number shown at the start of the game should be between 19 - 120.
 
 * Each crystal should have a random hidden value between 1 - 12.
 
-##### Notes for submission
 
-### spent a lot of time trying this assignment and didnt have luck until I had access to look over working code. I feel like I had to kind of or look back and forth line by line to make progress. I think I would have trouble doing this from scratch without working code to reference. 
-
-### Couldnt get the images to load not sure why, but did save this to the end to complete so something I missed maybe?
 
